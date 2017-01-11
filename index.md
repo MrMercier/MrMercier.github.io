@@ -41,7 +41,7 @@ I obtained my graduate degree in Cognitive Sciences from the Cogmaster in Paris,
   Mental imagery of self-location during spontaneous and active self-other interactions: an electrical neuroimaging study. J Neurosci 30:7202-14.
   17. Plomp G, __Mercier MR__, Otto TU, Blanke O, Herzog MH (2009)
   Non-retinotopic feature integration decreases response-locked brain activity as revealed by electrical neuroimaging. Neuroimage 48:405-414.
-  18. Mercier M, Schwartz S, Michel CM, Blanke O (2009)
+  18. __Mercier M__, Schwartz S, Michel CM, Blanke O (2009)
   Motion direction tuning in human visual cortex. Eur J Neurosci 29:424-434.
   19. Dieguez S, __Mercier MR__, Newby N, Blanke O (2009)
   Feeling numbness for someone else's finger. Curr Biol 19:R1108-1109.
