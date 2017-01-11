@@ -24,7 +24,7 @@ I obtained my graduate degree in Cognitive Sciences from the Cogmaster in Paris,
    8. Thirioux B, Mercier MR, Blanke O, Berthoz A (2014)
    The cognitive and neural time course of empathy and sympathy: an electrical neuroimaging study on self-other interaction. Neuroscience. 16;267:286-306
    9. Bahramisharif A, vanGerven MAJ, Aarnoutse EJ, Mercier MR, Schwartz TH, Foxe JJ, Ramsey NF, Jensen O (2013)
-   Propagating neocortical gamma bursts are coordinated by traveling alpha waves. J Neurosci 33:18849-54
+   Propagating neocortical gamma bursts are coordinated by traveling alpha waves. J Neurosci 33:18849-54.
   10. Mercier MR, Foxe JJ, Fiebelkorn IC, Butler JS, Schwartz TH, Molholm S (2013)
   Auditory-driven phase reset in visual cortex: Human electrocorticography reveals mechanisms of early multisensory integration. Neuroimage 79:19-29.
   11. Fiebelkorn IC, Snyder AC, Mercier MR, Butler JS, Molholm S, Foxe JJ (2013)
