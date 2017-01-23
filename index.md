@@ -1,9 +1,9 @@
 
-My general interest is to understand the orchestration of neuronal integration with a specific interest in neuronal oscillations. To this aim, I am studying the influence of cognitive functions (attention, memory … ) on multisensory interactions using psychophysics and electrophysiological approaches in human.
+My general scientific interest is to understand the orchestration of neuronal integration processes with a specific interest in neuronal oscillations. To this aim, I am studying the influence of cognitive functions (attention, memory … ) on multisensory interactions using psychophysics and electrophysiological approaches in human.
 
 ## Short Bio
 
-I obtained my graduate degree in Cognitive Sciences from the Cogmaster in Paris, before doing a Ph.D. in Neuroscience with Olaf Blanke (Ecole Polytechnique de Lausanne, Switzerland). Since then I worked as a postdoc with John J. Foxe (Albert Einstein College of Medicine, NY), Fred Lado (Montefiore Medical Center, NY) and now Celine Cappe (Cerco, France).
+I was originally trained in neurophysiology at University Paris XI Orsay. After obtaining the Master in Cognitive Sciences of Paris in 2003, I completed my PhD at the Ecole Polytechnique de Lausanne (Switzerland) in 2009, supervised by Prof. Olaf Blanke. My thesis examined visual processing using EEG and clinical approaches in collaboration with Christoph Michel at the Geneva University Hopsital. I then worked as a post-doctoral research fellow with Prof. John Foxe and Sophie Molholm at the Albert Einstein College of Medicine (New York, USA). There I studied the role of neuronal oscillations on multisensory integration using ECog and EEG. Next, I worked with Fred Lado and  Ashesh Mehta to develop multimodal tools (electrophysiology, electrical stimulatiion, fMRI, TEP) for human intracranial investigations. Thanks to David Groppe, this collaborative framework is being materialized through the ongoing release of an open toolbox for localizing and visualizing human intracranial data.
 
 ## List of publications
 
